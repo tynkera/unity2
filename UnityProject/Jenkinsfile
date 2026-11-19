@@ -1,0 +1,33 @@
+pipeline {
+    agent any
+
+    options {
+        timeout(time: 60, unit: 'MINUTES')
+        disableConcurrentBuilds()
+        skipDefaultCheckout()
+    }
+
+    stages {
+        stage('Checkout') {
+            steps {
+                checkout scm
+            }
+        }
+
+        stage('Build') {
+            steps {
+                bat 'if exist Builds rmdir /s /q Builds'
+                bat 'call build_windows.bat'
+            }
+        }
+    }
+
+    post {
+        always {
+            archiveArtifacts artifacts: 'Logs/build_windows.log', allowEmptyArchive: true
+        }
+        success {
+            archiveArtifacts artifacts: 'Builds/**', fingerprint: true
+        }
+    }
+}
