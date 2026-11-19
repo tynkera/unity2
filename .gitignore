@@ -1,0 +1,39 @@
+# Unity
+UnityProject/Library/
+UnityProject/Temp/
+UnityProject/Logs/
+UnityProject/obj/
+UnityProject/UserSettings/
+UnityProject/Build/
+UnityProject/Builds/
+UnityProject/MemoryCaptures/
+UnityProject/Recordings/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+
+# 빌드 결과
+Builds/
+
+# 실행 결과
+reports/*
+!reports/.gitkeep
+logs/
+
+# 파이썬
+qa/.venv/
+tools/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
