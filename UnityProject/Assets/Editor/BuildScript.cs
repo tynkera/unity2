@@ -28,7 +28,7 @@ namespace ExpeditionCamp.EditorTools
 
         private static void Run(string outputDirectory, bool withQaBridge)
         {
-            string projectRoot = Directory.GetParent(Application.dataPath).Parent.FullName;
+            string projectRoot = Directory.GetParent(Application.dataPath).FullName;
             string absoluteOutputDirectory = Path.Combine(projectRoot, outputDirectory);
             if (!Directory.Exists(absoluteOutputDirectory))
             {

@@ -7,7 +7,7 @@ if not exist Logs mkdir Logs
 "%UNITY%" -batchmode -nographics -quit ^
   -projectPath "%CD%" ^
   -buildTarget Win64 ^
-  -executeMethod BuildScript.BuildWindows ^
+  -executeMethod ExpeditionCamp.EditorTools.BuildScript.BuildForTest ^
   -logFile Logs\build_windows.log
 
 if %ERRORLEVEL% neq 0 (
@@ -16,5 +16,5 @@ if %ERRORLEVEL% neq 0 (
   exit /b 1
 )
 
-echo BUILD SUCCEEDED: Builds\Game.exe
+echo BUILD SUCCEEDED: Builds\Test\ExpeditionCamp.exe
 exit /b 0
