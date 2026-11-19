@@ -1,0 +1,348 @@
+key,ko,en
+STR_MON_100001_NAME,불꽃여우,Flame Fox
+STR_MON_100001_DESC,꼬리 끝에서 불씨가 떨어지는 여우입니다. 화가 나면 꼬리가 3배로 커집니다.,
+STR_MON_100002_NAME,물방울게,Droplet Crab
+STR_MON_100002_DESC,등껍질에 물을 담아 두는 게입니다. 위험하면 물을 뿜고 모래 속으로 들어갑니다.,A Water-element monster of grade N. It fights in the tank role.
+STR_MON_100003_NAME,덩굴토끼,Vine Rabbit
+STR_MON_100003_DESC,귀에 덩굴이 자라는 토끼입니다. 덩굴에서 나오는 즙으로 동료의 상처를 덮습니다.,A Grass-element monster of grade N. It fights in the support role.
+STR_MON_100004_NAME,반짝나방,Glimmer Moth
+STR_MON_100004_DESC,날개에 빛가루가 붙어 있는 나방입니다. 가루를 맞으면 몸이 가벼워집니다.,A Light-element monster of grade N. It fights in the healer role.
+STR_MON_100005_NAME,그늘쥐,Shade Mouse
+STR_MON_100005_DESC,그늘에서만 움직이는 쥐입니다. 빛이 닿으면 눈을 감고 멈춥니다.,
+STR_MON_100006_NAME,모래도마뱀,Sand Lizard
+STR_MON_100006_DESC,모래에 몸을 묻고 열을 모으는 도마뱀입니다. 등 비늘이 뜨겁게 달아오릅니다.,A Fire-element monster of grade N. It fights in the tank role.
+STR_MON_100007_NAME,물거품새,Bubble Bird
+STR_MON_100007_DESC,부리로 물거품을 만드는 새입니다. 거품이 터지면 동료의 피로가 줄어듭니다.,A Water-element monster of grade N. It fights in the support role.
+STR_MON_100008_NAME,이끼거북,Moss Turtle
+STR_MON_100008_DESC,등에 이끼를 기르는 거북입니다. 이끼가 두꺼워질수록 껍질이 단단해집니다.,A Grass-element monster of grade N. It fights in the tank role.
+STR_MON_100009_NAME,햇살다람쥐,Sunray Squirrel
+STR_MON_100009_DESC,햇빛을 모아 두는 다람쥐입니다. 모은 빛을 동료에게 나눠 줍니다.,A Light-element monster of grade N. It fights in the healer role.
+STR_MON_100010_NAME,밤안개박쥐,Nightmist Bat
+STR_MON_100010_DESC,안개가 낀 밤에만 사냥하는 박쥐입니다. 날개 소리가 거의 나지 않습니다.,
+STR_MON_100011_NAME,숯불강아지,Charcoal Pup
+STR_MON_100011_DESC,숯처럼 검은 털 아래에 불씨를 품은 강아지입니다. 뛰면 발자국이 그을립니다.,A Fire-element monster of grade N. It fights in the dealer role.
+STR_MON_100012_NAME,불씨두꺼비,Ember Toad
+STR_MON_100012_DESC,입속에 불씨를 담고 있는 두꺼비입니다. 울음소리와 함께 연기를 내뿜습니다.,A Fire-element monster of grade R. It fights in the tank role.
+STR_MON_100013_NAME,잔불도롱뇽,Cinder Salamander
+STR_MON_100013_DESC,꺼지지 않는 잔불을 따라 사는 도롱뇽입니다. 바위 틈의 열기를 찾아 이동합니다.,A Fire-element monster of grade N. It fights in the support role.
+STR_MON_100014_NAME,용암골렘,Lava Golem
+STR_MON_100014_DESC,"용암이 굳어서 생긴 몸입니다. 걸을 때마다 바닥에 열기가 남고, 비가 오면 증기가 올라옵니다.",A Fire-element monster of grade SR. It fights in the tank role.
+STR_MON_100015_NAME,달빛올빼미,Moonlight Owl
+STR_MON_100015_DESC,달빛을 받아 깃털이 하얗게 보이는 올빼미입니다. 울음소리로 동료를 깨웁니다.,A Light-element monster of grade N. It fights in the healer role.
+STR_MON_100016_NAME,잿빛늑대,Ashen Wolf
+STR_MON_100016_DESC,잿빛 털로 바위와 구분되지 않는 늑대입니다. 무리로 사냥감을 둘러쌉니다.,A Dark-element monster of grade R. It fights in the dealer role.
+STR_MON_100017_NAME,화산전갈,Volcano Scorpion
+STR_MON_100017_DESC,화산 지대에서만 확인되는 전갈입니다. 집게가 달아오르면 바위도 끊습니다.,A Fire-element monster of grade SR. It fights in the dealer role.
+STR_MON_100018_NAME,물결뱀,Ripple Serpent
+STR_MON_100018_DESC,물살을 따라 움직이는 뱀입니다. 비늘이 물결 모양으로 빛납니다.,A Water-element monster of grade R. It fights in the dealer role.
+STR_MON_100019_NAME,넝쿨곰,Vine Bear
+STR_MON_100019_DESC,넝쿨을 몸에 두르고 다니는 곰입니다. 넝쿨로 상처를 스스로 감습니다.,A Grass-element monster of grade R. It fights in the tank role.
+STR_MON_100020_NAME,빛무리사슴,Halo Deer
+STR_MON_100020_DESC,뿔 주변에 빛무리가 생기는 사슴입니다. 빛무리 안에서는 상처가 천천히 아뭅니다.,A Light-element monster of grade R. It fights in the healer role.
+STR_MON_100021_NAME,검은깃매,Blackfeather Hawk
+STR_MON_100021_DESC,검은 깃으로 밤하늘에 섞이는 매입니다. 급강하 속도가 매우 빠릅니다.,A Dark-element monster of grade R. It fights in the dealer role.
+STR_MON_100022_NAME,불티여치,Spark Katydid
+STR_MON_100022_DESC,날개를 비벼 불티를 만드는 여치입니다. 불티 소리로 동료의 움직임을 맞춥니다.,A Fire-element monster of grade R. It fights in the support role.
+STR_MON_100023_NAME,소금게,Salt Crab
+STR_MON_100023_DESC,소금 벌판에 사는 게입니다. 껍질에 소금 결정이 층층이 붙어 있습니다.,A Water-element monster of grade R. It fights in the tank role.
+STR_MON_100024_NAME,가시멧돼지,Thorn Boar
+STR_MON_100024_DESC,등에 나무 가시가 자라는 멧돼지입니다. 달리면서 가시로 길을 냅니다.,A Grass-element monster of grade R. It fights in the dealer role.
+STR_MON_100025_NAME,새벽나비,Dawn Butterfly
+STR_MON_100025_DESC,새벽에만 날개를 펴는 나비입니다. 날개 가루가 동료의 방어를 돕습니다.,A Light-element monster of grade R. It fights in the support role.
+STR_MON_100026_NAME,그늘표범,Shade Leopard
+STR_MON_100026_DESC,소리 없이 접근하는 표범입니다. 그늘에서 나올 때까지 모습을 확인하기 어렵습니다.,A Dark-element monster of grade R. It fights in the dealer role.
+STR_MON_100027_NAME,불꽃수리,Flame Eagle
+STR_MON_100027_DESC,날개 끝이 불빛처럼 보이는 수리입니다. 급강하할 때 열기가 함께 내려옵니다.,A Fire-element monster of grade R. It fights in the dealer role.
+STR_MON_100028_NAME,심해해마,Deepsea Seahorse
+STR_MON_100028_DESC,깊은 물에서 올라오는 해마입니다. 물살을 모아 동료의 상처를 씻어 냅니다.,A Water-element monster of grade N. It fights in the healer role.
+STR_MON_100029_NAME,대나무파수꾼,Bamboo Sentinel
+STR_MON_100029_DESC,대나무를 묶어 만든 몸으로 움직이는 파수꾼입니다. 잘려도 새 대나무가 자라납니다.,A Grass-element monster of grade SR. It fights in the tank role.
+STR_MON_100030_NAME,성채기사,Citadel Knight
+STR_MON_100030_DESC,성채를 지키던 기사입니다. 방패를 내려놓지 않고 길목을 막습니다.,A Light-element monster of grade SR. It fights in the tank role.
+STR_MON_100031_NAME,새벽의 기사,Knight of Dawn
+STR_MON_100031_DESC,새벽 첫 빛과 함께 나타나는 기사입니다. 검을 들면 주변이 환해집니다.,A Light-element monster of grade SSR. It fights in the dealer role.
+STR_MON_100032_NAME,심연가오리,Abyss Ray
+STR_MON_100032_DESC,빛이 닿지 않는 물에서 사는 가오리입니다. 지나간 자국만 남기고 사라집니다.,A Dark-element monster of grade SR. It fights in the dealer role.
+STR_MON_100033_NAME,화염수호병,Flame Guardian
+STR_MON_100033_DESC,불을 다루도록 훈련받은 수호병입니다. 방패에 불이 붙은 상태로 전진합니다.,A Fire-element monster of grade SR. It fights in the tank role.
+STR_MON_100034_NAME,빙결늑대,Frostbound Wolf
+STR_MON_100034_DESC,숨을 내쉬면 공기가 얼어붙는 늑대입니다. 발자국 주변에 얼음이 남습니다.,A Water-element monster of grade SR. It fights in the dealer role.
+STR_MON_100035_NAME,숲의 감시자,Warden of the Forest
+STR_MON_100035_DESC,숲의 길을 외우고 있는 감시자입니다. 침입자가 들어오면 나무를 울려 알립니다.,A Grass-element monster of grade SR. It fights in the support role.
+STR_MON_100036_NAME,태양의 사제,Priest of the Sun
+STR_MON_100036_DESC,태양 신전에서 기도를 올리는 사제입니다. 기도가 끝나면 동료의 상처가 아뭅니다.,A Light-element monster of grade SSR. It fights in the healer role.
+STR_MON_100037_NAME,심해의 군주,Lord of the Deep
+STR_MON_100037_DESC,깊은 물을 다스리는 군주입니다. 물살을 끌어모아 벽처럼 세웁니다.,A Water-element monster of grade SSR. It fights in the tank role.
+STR_MON_100038_NAME,그림자 군주,Shadow Sovereign
+STR_MON_100038_DESC,"그림자 안에서만 움직이고, 빛을 받으면 모습이 흐려집니다.",A Dark-element monster of grade UR. It fights in the dealer role.
+STR_MON_100039_NAME,대지의 현자,Sage of the Earth
+STR_MON_100039_DESC,땅의 흐름을 읽는 현자입니다. 지팡이로 바닥을 두드려 길을 바꿉니다.,A Grass-element monster of grade SSR. It fights in the support role.
+STR_MON_100040_NAME,별을 삼킨 고래,Star-Swallowing Whale
+STR_MON_100040_DESC,"어민들은 이 고래를 ""별을 먹는 자""라고 부릅니다. 밤바다에서만 모습을 확인할 수 있습니다.",A Water-element monster of grade UR. It fights in the tank role.
+STR_SKILL_500001_NAME,화염 할퀴기,Flame Claw
+STR_SKILL_500001_DESC,적 1체에게 공격력의 150% 피해를 줍니다. 맞은 대상은 2턴 동안 화상을 입습니다.,Deals 150% of ATK as damage to enemy one. The target burns for 2 turns.
+STR_SKILL_500002_NAME,반짝 가루,Glimmer Dust
+STR_SKILL_500002_DESC,아군 전체의 체력을 최대 체력의 10% 회복합니다.,Restores 10% of max HP to ally all.
+STR_SKILL_500003_NAME,거품 방패,Bubble Shield
+STR_SKILL_500003_DESC,아군 1체의 방어력 증가 효과를 2턴 동안 적용합니다.,Applies def_up to ally one for 2 turns.
+STR_SKILL_500004_NAME,그늘 송곳니,Shade Fang
+STR_SKILL_500004_DESC,적 1체에게 공격력의 140% 피해를 줍니다.,Deals 140% of ATK as damage to enemy one.
+STR_SKILL_500005_NAME,새싹 치유,Sprout Heal
+STR_SKILL_500005_DESC,아군 전체의 체력을 최대 체력의 12% 회복합니다.,Restores 12% of max HP to ally all.
+STR_SKILL_500006_NAME,모래 방벽,Sand Barrier
+STR_SKILL_500006_DESC,아군 1체의 방어력 증가 효과를 2턴 동안 적용합니다.,Applies def_up to ally one for 2 turns.
+STR_SKILL_500007_NAME,물거품 응원,Bubble Cheer
+STR_SKILL_500007_DESC,아군 전체의 공격력 증가 효과를 2턴 동안 적용합니다.,Applies atk_up to ally all for 2 turns.
+STR_SKILL_500008_NAME,이끼 껍질,Moss Shell
+STR_SKILL_500008_DESC,아군 1체의 방어력 증가 효과를 2턴 동안 적용합니다.,Applies def_up to ally one for 2 turns.
+STR_SKILL_500009_NAME,햇살 치유,Sunray Heal
+STR_SKILL_500009_DESC,아군 1체의 체력을 최대 체력의 15% 회복합니다.,Restores 15% of max HP to ally one.
+STR_SKILL_500010_NAME,밤안개 베기,Nightmist Slash
+STR_SKILL_500010_DESC,적 1체에게 공격력의 150% 피해를 줍니다.,Deals 150% of ATK as damage to enemy one.
+STR_SKILL_500011_NAME,용암 분출,Lava Burst
+STR_SKILL_500011_DESC,적 전체에게 공격력의 180% 피해를 줍니다. 맞은 대상은 3턴 동안 화상을 입습니다.,Deals 180% of ATK as damage to enemy all. The target burns for 3 turns.
+STR_SKILL_500012_NAME,녹아내린 갑옷,Molten Armor
+STR_SKILL_500012_DESC,전투 내내 자신의 방어력 증가 수치를 15% 올립니다.,Raises the user's def_up by 15% for the whole battle.
+STR_SKILL_500013_NAME,숯불 물기,Charcoal Bite
+STR_SKILL_500013_DESC,적 1체에게 공격력의 130% 피해를 줍니다. 맞은 대상은 2턴 동안 화상을 입습니다.,Deals 130% of ATK as damage to enemy one. The target burns for 2 turns.
+STR_SKILL_500014_NAME,불씨 방패,Ember Shield
+STR_SKILL_500014_DESC,아군 1체의 방어력 증가 효과를 2턴 동안 적용합니다.,Applies def_up to ally one for 2 turns.
+STR_SKILL_500015_NAME,잔불 흩뿌리기,Cinder Scatter
+STR_SKILL_500015_DESC,아군 전체의 공격력 증가 효과를 2턴 동안 적용합니다.,
+STR_SKILL_500016_NAME,달빛 치유,Moonlight Heal
+STR_SKILL_500016_DESC,아군 전체의 체력을 최대 체력의 13% 회복합니다.,Restores 13% of max HP to ally all.
+STR_SKILL_500017_NAME,잿빛 송곳니,Ashen Fang
+STR_SKILL_500017_DESC,적 1체에게 공격력의 170% 피해를 줍니다.,Deals 170% of ATK as damage to enemy one.
+STR_SKILL_500018_NAME,물결 채찍,Ripple Whip
+STR_SKILL_500018_DESC,적 1체에게 공격력의 155% 피해를 줍니다.,Deals 155% of ATK as damage to enemy one.
+STR_SKILL_500019_NAME,넝쿨 포박,Vine Bind
+STR_SKILL_500019_DESC,적 1체에게 공격력의 110% 피해를 줍니다. 맞은 대상은 1턴 동안 움직이지 못합니다.,Deals 110% of ATK as damage to enemy one. The target cannot move for 1 turns.
+STR_SKILL_500020_NAME,빛무리 치유,Halo Heal
+STR_SKILL_500020_DESC,아군 전체의 체력을 최대 체력의 14% 회복합니다.,Restores 14% of max HP to ally all.
+STR_SKILL_500021_NAME,성광 일격,Holy Strike
+STR_SKILL_500021_DESC,"빛을 모아 한 번에 내리치고, 맞은 대상은 1턴 동안 움직이지 못합니다.","Gathers light into one strike, and the target cannot move for 1 turn."
+STR_SKILL_500022_NAME,기사의 맹세,Knight's Oath
+STR_SKILL_500022_DESC,전투 내내 자신의 공격력 증가 수치를 10% 올립니다.,Raises the user's atk_up by 10% for the whole battle.
+STR_SKILL_500023_NAME,검은 깃 돌진,Blackfeather Dive
+STR_SKILL_500023_DESC,적 1체에게 공격력의 180% 피해를 줍니다.,Deals 180% of ATK as damage to enemy one.
+STR_SKILL_500024_NAME,불티 응원,Spark Cheer
+STR_SKILL_500024_DESC,아군 전체의 공격력 증가 효과를 2턴 동안 적용합니다.,Applies atk_up to ally all for 2 turns.
+STR_SKILL_500025_NAME,소금 방벽,Salt Barrier
+STR_SKILL_500025_DESC,아군 1체의 방어력 증가 효과를 2턴 동안 적용합니다.,Applies def_up to ally one for 2 turns.
+STR_SKILL_500026_NAME,가시 돌진,Thorn Charge
+STR_SKILL_500026_DESC,적 1체에게 공격력의 190% 피해를 줍니다.,
+STR_SKILL_500027_NAME,심연의 손길,Touch of the Abyss
+STR_SKILL_500027_DESC,적 전체에게 공격력의 220% 피해를 줍니다. 맞은 대상은 3턴 동안 화상을 입습니다.,Deals 220% of ATK as damage to enemy all. The target burns for 3 turns.
+STR_SKILL_500028_NAME,어둠의 왕관,Crown of Darkness
+STR_SKILL_500028_DESC,전투 내내 자신의 공격력 증가 수치를 18% 올립니다.,Raises the user's atk_up by 18% for the whole battle.
+STR_SKILL_500029_NAME,새벽 비늘가루,Dawn Scale Dust
+STR_SKILL_500029_DESC,아군 전체의 방어력 증가 효과를 2턴 동안 적용합니다.,Applies def_up to ally all for 2 turns.
+STR_SKILL_500030_NAME,심해 치유,Deepsea Heal
+STR_SKILL_500030_DESC,아군 전체의 체력을 최대 체력의 18% 회복합니다.,Restores 18% of max HP to ally all.
+STR_SKILL_500031_NAME,별빛 삼키기,Star Swallow
+STR_SKILL_500031_DESC,적 전체에게 공격력의 200% 피해를 줍니다. 맞은 대상은 2턴 동안 움직이지 못합니다.,Deals 200% of ATK as damage to enemy all. The target cannot move for 2 turns.
+STR_SKILL_500032_NAME,별빛 비늘,Starlight Scale
+STR_SKILL_500032_DESC,전투 내내 자신의 방어력 증가 수치를 22% 올립니다.,Raises the user's def_up by 22% for the whole battle.
+STR_SKILL_500033_NAME,불꽃 급강하,Flame Dive
+STR_SKILL_500033_DESC,적 1체에게 공격력의 210% 피해를 줍니다. 맞은 대상은 2턴 동안 화상을 입습니다.,Deals 210% of ATK as damage to enemy one. The target burns for 2 turns.
+STR_SKILL_500034_NAME,해마 물살,Seahorse Current
+STR_SKILL_500034_DESC,아군 전체의 체력을 최대 체력의 17% 회복합니다.,Restores 17% of max HP to ally all.
+STR_SKILL_500035_NAME,화산 집게,Volcano Pincer
+STR_SKILL_500035_DESC,적 1체에게 공격력의 185% 피해를 줍니다. 맞은 대상은 2턴 동안 화상을 입습니다.,Deals 185% of ATK as damage to enemy one. The target burns for 2 turns.
+STR_SKILL_500036_NAME,화산 피부,Volcanic Skin
+STR_SKILL_500036_DESC,전투 내내 자신의 방어력 증가 수치를 12% 올립니다.,Raises the user's def_up by 12% for the whole battle.
+STR_SKILL_500037_NAME,대나무 결계,Bamboo Ward
+STR_SKILL_500037_DESC,아군 전체의 방어력 증가 효과를 3턴 동안 적용합니다.,Applies def_up to ally all for 3 turns.
+STR_SKILL_500038_NAME,대나무 껍질,Bamboo Bark
+STR_SKILL_500038_DESC,전투 내내 자신의 방어력 증가 수치를 13% 올립니다.,Raises the user's def_up by 13% for the whole battle.
+STR_SKILL_500039_NAME,성채 방어선,Citadel Line
+STR_SKILL_500039_DESC,아군 전체의 방어력 증가 효과를 3턴 동안 적용합니다.,Applies def_up to ally all for 3 turns.
+STR_SKILL_500040_NAME,성채의 긍지,Citadel Pride
+STR_SKILL_500040_DESC,전투 내내 자신의 방어력 증가 수치를 16% 올립니다.,Raises the user's def_up by 16% for the whole battle.
+STR_SKILL_500041_NAME,심연 가르기,Abyss Cut
+STR_SKILL_500041_DESC,적 1체에게 공격력의 230% 피해를 줍니다.,
+STR_SKILL_500042_NAME,심연의 기운,Aura of the Abyss
+STR_SKILL_500042_DESC,전투 내내 자신의 공격력 증가 수치를 14% 올립니다.,Raises the user's atk_up by 14% for the whole battle.
+STR_SKILL_500043_NAME,화염 수호 타격,Flame Guard Strike
+STR_SKILL_500043_DESC,적 1체에게 공격력의 195% 피해를 줍니다. 맞은 대상은 2턴 동안 화상을 입습니다.,Deals 195% of ATK as damage to enemy one. The target burns for 2 turns.
+STR_SKILL_500044_NAME,불의 가호,Blessing of Fire
+STR_SKILL_500044_DESC,전투 내내 자신의 공격력 증가 수치를 11% 올립니다.,Raises the user's atk_up by 11% for the whole battle.
+STR_SKILL_500045_NAME,빙결 송곳니,Frost Fang
+STR_SKILL_500045_DESC,적 1체에게 공격력의 225% 피해를 줍니다. 맞은 대상은 1턴 동안 움직이지 못합니다.,Deals 225% of ATK as damage to enemy one. The target cannot move for 1 turns.
+STR_SKILL_500046_NAME,얼음 결정,Ice Crystal
+STR_SKILL_500046_DESC,전투 내내 자신의 방어력 증가 수치를 17% 올립니다.,Raises the user's def_up by 17% for the whole battle.
+STR_SKILL_500047_NAME,숲의 감시,Forest Watch
+STR_SKILL_500047_DESC,아군 전체의 공격력 증가 효과를 3턴 동안 적용합니다.,Applies atk_up to ally all for 3 turns.
+STR_SKILL_500048_NAME,숲의 축복,Forest Blessing
+STR_SKILL_500048_DESC,전투 내내 자신의 공격력 증가 수치를 9% 올립니다.,Raises the user's atk_up by 9% for the whole battle.
+STR_SKILL_500049_NAME,태양 기도,Sun Prayer
+STR_SKILL_500049_DESC,아군 전체의 체력을 최대 체력의 22% 회복합니다.,Restores 22% of max HP to ally all.
+STR_SKILL_500050_NAME,태양의 가호,Blessing of the Sun
+STR_SKILL_500050_DESC,전투 내내 자신의 공격력 증가 수치를 19% 올립니다.,Raises the user's atk_up by 19% for the whole battle.
+STR_SKILL_500051_NAME,심해 격류,Deepsea Torrent
+STR_SKILL_500051_DESC,적 전체에게 공격력의 210% 피해를 줍니다.,Deals 210% of ATK as damage to enemy all.
+STR_SKILL_500052_NAME,깊은 물의 압력,Pressure of the Deep
+STR_SKILL_500052_DESC,전투 내내 자신의 방어력 증가 수치를 20% 올립니다.,Raises the user's def_up by 20% for the whole battle.
+STR_SKILL_500053_NAME,대지 균열,Earth Rift
+STR_SKILL_500053_DESC,적 전체에게 공격력의 190% 피해를 줍니다. 맞은 대상은 2턴 동안 움직이지 못합니다.,Deals 190% of ATK as damage to enemy all. The target cannot move for 2 turns.
+STR_SKILL_500054_NAME,대지의 지혜,Wisdom of the Earth
+STR_SKILL_500054_DESC,전투 내내 자신의 공격력 증가 수치를 15% 올립니다.,Raises the user's atk_up by 15% for the whole battle.
+STR_SKILL_500055_NAME,고요한 일격,Quiet Strike
+STR_SKILL_500055_DESC,적 1체에게 공격력의 150% 피해를 줍니다.,Deals 150% of ATK as damage to enemy one.
+STR_SKILL_500056_NAME,고요한 집중,Quiet Focus
+STR_SKILL_500056_DESC,전투 내내 자신의 공격력 증가 수치를 8% 올립니다.,Raises the user's atk_up by 8% for the whole battle.
+STR_ITEM_201001_NAME,여우 꼬리털,Fox Tail Fur
+STR_ITEM_201001_DESC,불꽃여우 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Flame Fox. Used for crafting.
+STR_ITEM_201002_NAME,게 껍질,Crab Shell
+STR_ITEM_201002_DESC,물방울게 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Droplet Crab. Used for crafting.
+STR_ITEM_201003_NAME,토끼 발톱,Rabbit Claw
+STR_ITEM_201003_DESC,덩굴토끼 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Vine Rabbit. Used for crafting.
+STR_ITEM_201004_NAME,나방 비늘,Moth Scale
+STR_ITEM_201004_DESC,반짝나방 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Glimmer Moth. Used for crafting.
+STR_ITEM_201005_NAME,쥐 이빨,Mouse Tooth
+STR_ITEM_201005_DESC,그늘쥐 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Shade Mouse. Used for crafting.
+STR_ITEM_201006_NAME,도마뱀 비늘,Lizard Scale
+STR_ITEM_201006_DESC,모래도마뱀 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Sand Lizard. Used for crafting.
+STR_ITEM_201007_NAME,새 깃털,Bird Feather
+STR_ITEM_201007_DESC,물거품새 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Bubble Bird. Used for crafting.
+STR_ITEM_201008_NAME,거북 등딱지,Turtle Shell
+STR_ITEM_201008_DESC,이끼거북 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Moss Turtle. Used for crafting.
+STR_ITEM_201009_NAME,다람쥐 털,Squirrel Fur
+STR_ITEM_201009_DESC,햇살다람쥐 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Sunray Squirrel. Used for crafting.
+STR_ITEM_201010_NAME,박쥐 날개,Bat Wing
+STR_ITEM_201010_DESC,밤안개박쥐 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Nightmist Bat. Used for crafting.
+STR_ITEM_201011_NAME,숯 조각,Charcoal Piece
+STR_ITEM_201011_DESC,숯불강아지 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Charcoal Pup. Used for crafting.
+STR_ITEM_201012_NAME,굳은 용암 조각,Hardened Lava Shard
+STR_ITEM_201012_DESC,불씨두꺼비 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Ember Toad. Used for crafting.
+STR_ITEM_201013_NAME,용암 비늘,Lava Scale
+STR_ITEM_201013_DESC,잔불도롱뇽 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Cinder Salamander. Used for crafting.
+STR_ITEM_201014_NAME,용암 핵,Lava Core
+STR_ITEM_201014_DESC,"용암골렘의 중심에서 꺼낸 재료입니다. 식지 않고, 손으로 잡으면 화상을 입습니다.","A material taken from the core of a Lava Golem. It never cools, and it burns bare hands."
+STR_ITEM_201015_NAME,달빛 깃털,Moonlight Feather
+STR_ITEM_201015_DESC,달빛올빼미 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Moonlight Owl. Used for crafting.
+STR_ITEM_201016_NAME,늑대 송곳니,Wolf Fang
+STR_ITEM_201016_DESC,잿빛늑대 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Ashen Wolf. Used for crafting.
+STR_ITEM_201017_NAME,전갈 집게,Scorpion Pincer
+STR_ITEM_201017_DESC,화산전갈 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Volcano Scorpion. Used for crafting.
+STR_ITEM_201018_NAME,뱀 비늘,Serpent Scale
+STR_ITEM_201018_DESC,물결뱀 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Ripple Serpent. Used for crafting.
+STR_ITEM_201019_NAME,곰 발톱,Bear Claw
+STR_ITEM_201019_DESC,넝쿨곰 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,
+STR_ITEM_201020_NAME,사슴 뿔,Deer Antler
+STR_ITEM_201020_DESC,빛무리사슴 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Halo Deer. Used for crafting.
+STR_ITEM_201021_NAME,매 발톱,Hawk Talon
+STR_ITEM_201021_DESC,검은깃매 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Blackfeather Hawk. Used for crafting.
+STR_ITEM_201022_NAME,여치 날개,Katydid Wing
+STR_ITEM_201022_DESC,불티여치 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Spark Katydid. Used for crafting.
+STR_ITEM_201023_NAME,소금 결정,Salt Crystal
+STR_ITEM_201023_DESC,소금게 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Salt Crab. Used for crafting.
+STR_ITEM_201024_NAME,멧돼지 가시,Boar Thorn
+STR_ITEM_201024_DESC,가시멧돼지 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Thorn Boar. Used for crafting.
+STR_ITEM_201025_NAME,나비 가루,Butterfly Dust
+STR_ITEM_201025_DESC,새벽나비 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,
+STR_ITEM_201026_NAME,표범 가죽,Leopard Hide
+STR_ITEM_201026_DESC,그늘표범 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Shade Leopard. Used for crafting.
+STR_ITEM_201027_NAME,수리 깃털,Eagle Feather
+STR_ITEM_201027_DESC,불꽃수리 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Flame Eagle. Used for crafting.
+STR_ITEM_201028_NAME,해마 지느러미,Seahorse Fin
+STR_ITEM_201028_DESC,심해해마 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Deepsea Seahorse. Used for crafting.
+STR_ITEM_201029_NAME,대나무 심,Bamboo Core
+STR_ITEM_201029_DESC,대나무파수꾼 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Bamboo Sentinel. Used for crafting.
+STR_ITEM_201030_NAME,성채 조각,Citadel Fragment
+STR_ITEM_201030_DESC,성채기사 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Citadel Knight. Used for crafting.
+STR_ITEM_201031_NAME,새벽 광석,Dawn Ore
+STR_ITEM_201031_DESC,새벽의 기사 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Knight of Dawn. Used for crafting.
+STR_ITEM_201032_NAME,심연 비늘,Abyss Scale
+STR_ITEM_201032_DESC,심연가오리 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Abyss Ray. Used for crafting.
+STR_ITEM_201033_NAME,화염 갑각,Flame Carapace
+STR_ITEM_201033_DESC,화염수호병 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Flame Guardian. Used for crafting.
+STR_ITEM_201034_NAME,빙결 결정,Frost Crystal
+STR_ITEM_201034_DESC,빙결늑대 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Frostbound Wolf. Used for crafting.
+STR_ITEM_201035_NAME,숲의 수액,Forest Sap
+STR_ITEM_201035_DESC,숲의 감시자 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Warden of the Forest. Used for crafting.
+STR_ITEM_201036_NAME,태양 보석,Sun Gem
+STR_ITEM_201036_DESC,태양의 사제 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Priest of the Sun. Used for crafting.
+STR_ITEM_201037_NAME,심해 진주,Deepsea Pearl
+STR_ITEM_201037_DESC,심해의 군주 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Lord of the Deep. Used for crafting.
+STR_ITEM_201038_NAME,어둠 결정,Dark Crystal
+STR_ITEM_201038_DESC,그림자 군주 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Shadow Sovereign. Used for crafting.
+STR_ITEM_201039_NAME,대지 결정,Earth Crystal
+STR_ITEM_201039_DESC,대지의 현자 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Sage of the Earth. Used for crafting.
+STR_ITEM_201040_NAME,별 조각,Star Fragment
+STR_ITEM_201040_DESC,별을 삼킨 고래 사냥으로 얻는 재료입니다. 장비 제작에 사용합니다.,A material dropped by Star-Swallowing Whale. Used for crafting.
+STR_ITEM_202001_NAME,소형 회복 물약,Small Potion
+STR_ITEM_202001_DESC,"체력을 20% 회복합니다. 전투 중, 이동 중 모두 사용할 수 있습니다.","Restores 20% HP. Usable in battle, or while moving."
+STR_ITEM_202002_NAME,중형 회복 물약,Medium Potion
+STR_ITEM_202002_DESC,체력을 40% 회복합니다.,Restores 40% HP.
+STR_ITEM_202003_NAME,경험의 두루마리,Scroll of Experience
+STR_ITEM_202003_DESC,경험치를 5% 더 받습니다.,Grants 5% extra experience.
+STR_ITEM_202004_NAME,대형 회복 물약,Large Potion
+STR_ITEM_202004_DESC,체력을 70% 회복합니다.,Restores 70% HP.
+STR_ITEM_202005_NAME,행동력 음료,Stamina Drink
+STR_ITEM_202005_DESC,행동력을 20 회복합니다.,Restores 20 stamina.
+STR_ITEM_202006_NAME,행동력 영약,Stamina Elixir
+STR_ITEM_202006_DESC,행동력을 50 회복합니다.,Restores 50 stamina.
+STR_ITEM_202007_NAME,경험의 서책,Book of Experience
+STR_ITEM_202007_DESC,경험치를 12% 더 받습니다.,Grants 12% extra experience.
+STR_ITEM_202008_NAME,완전 회복 물약,Full Potion
+STR_ITEM_202008_DESC,체력을 100% 회복합니다.,Restores 100% HP.
+STR_ITEM_202009_NAME,소형 행동력 사탕,Small Stamina Candy
+STR_ITEM_202009_DESC,행동력을 10 회복합니다.,Restores 10 stamina.
+STR_ITEM_202010_NAME,숙련의 두루마리,Scroll of Mastery
+STR_ITEM_202010_DESC,경험치를 15% 더 받습니다.,Grants 15% extra experience.
+STR_ITEM_202011_NAME,야영 식사,Camp Meal
+STR_ITEM_202011_DESC,행동력을 35 회복합니다.,
+STR_ITEM_202012_NAME,전투 각성제,Battle Stimulant
+STR_ITEM_202012_DESC,체력을 60% 회복합니다.,Restores 60% HP.
+STR_ITEM_202013_NAME,고대의 경험서,Ancient Codex
+STR_ITEM_202013_DESC,경험치를 25% 더 받습니다.,Grants 25% extra experience.
+STR_ITEM_202014_NAME,별빛 행동력 영약,Starlight Stamina Elixir
+STR_ITEM_202014_DESC,행동력을 80 회복합니다.,Restores 80 stamina.
+STR_ITEM_202015_NAME,완전 각성서,Full Awakening Tome
+STR_ITEM_202015_DESC,경험치를 40% 더 받습니다.,Grants 40% extra experience.
+STR_ITEM_203001_NAME,골드,Gold
+STR_ITEM_203001_DESC,사냥과 스테이지 반복 보상으로 모으는 기본 재화입니다.,Gold is used across the game.
+STR_ITEM_203002_NAME,루비,Ruby
+STR_ITEM_203002_DESC,스테이지를 처음 클리어할 때 받는 재화입니다.,Ruby is used across the game.
+STR_ITEM_203003_NAME,도감 포인트,Dex Point
+STR_ITEM_203003_DESC,도감을 채울 때 올라가는 재화입니다.,Dex Point is used across the game.
+STR_ITEM_203004_NAME,사냥 훈장,Hunt Medal
+STR_ITEM_203004_DESC,같은 몬스터를 여러 번 사냥하면 모이는 재화입니다.,Hunt Medal is used across the game.
+STR_ITEM_203005_NAME,별빛 조각,Starlight Shard
+STR_ITEM_203005_DESC,출시 예정 콘텐츠에서 사용할 재화입니다.,
+STR_STAGE_401001_NAME,초원 입구,Meadow Entrance
+STR_STAGE_401002_NAME,바람 언덕,Windy Hill
+STR_STAGE_401003_NAME,이끼 숲길,Mossy Trail
+STR_STAGE_401004_NAME,물방울 샘,Droplet Spring
+STR_STAGE_401005_NAME,햇살 들판,Sunlit Field
+STR_STAGE_401006_NAME,돌무지 길,Stony Path
+STR_STAGE_401007_NAME,재의 언덕,Hill of Ash
+STR_STAGE_401008_NAME,뜨거운 바위밭,Scorching Rockfield
+STR_STAGE_401009_NAME,용암 동굴 입구,Lava Cave Entrance
+STR_STAGE_401010_NAME,용암 동굴 깊은 곳,Depths of the Lava Cave
+STR_STAGE_402001_NAME,서늘한 해안,Chilly Shore
+STR_STAGE_402002_NAME,소금 벌판,Salt Flats
+STR_STAGE_402003_NAME,밀물 동굴,
+STR_STAGE_402004_NAME,산호 길,Coral Path
+STR_STAGE_402005_NAME,깊은 물가,Deep Waterside
+STR_STAGE_402006_NAME,안개 항구,Misty Harbor
+STR_STAGE_402007_NAME,폐선 갑판,Wrecked Deck
+STR_STAGE_402008_NAME,해저 균열,Seafloor Rift
+STR_STAGE_402009_NAME,심해 관문,Deepsea Gate
+STR_STAGE_402010_NAME,태양 신전,Temple of the Sun
+STR_STAGE_403001_NAME,새벽 성문,Dawn Gate
+STR_STAGE_403002_NAME,흰 돌 계단,White Stone Stairs
+STR_STAGE_403003_NAME,기사단 연병장,Knights' Drill Ground
+STR_STAGE_403004_NAME,성채 회랑,Citadel Corridor
+STR_STAGE_403005_NAME,어둠의 서고,Library of Darkness
+STR_STAGE_403006_NAME,그림자 복도,Shadow Hallway
+STR_STAGE_403007_NAME,별빛 전망대,
+STR_STAGE_403008_NAME,심연 통로,Abyss Passage
+STR_STAGE_403009_NAME,왕좌 앞마당,Courtyard of the Throne
+STR_STAGE_403010_NAME,새벽의 왕좌,Throne of Dawn
+STR_MON_100099_NAME,안개여우,Mist Fox
+STR_SKILL_500099_NAME,안개 가르기,Mist Cut
+STR_ITEM_201099_DESC,사라진 재료의 설명입니다.,Description of a removed material.
+STR_ITEM_202016_NAME,해독제,Antidote
+STR_ITEM_202016_DESC,독을 없애고 체력을 10% 회복합니다.,Cures poison and restores 10% HP.
