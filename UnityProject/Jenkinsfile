@@ -17,14 +17,14 @@ pipeline {
         stage('Build') {
             steps {
                 bat 'if exist Builds rmdir /s /q Builds'
-                bat 'call build_windows.bat'
+                bat 'call UnityProject\\build_windows.bat'
             }
         }
     }
 
     post {
         always {
-            archiveArtifacts artifacts: 'Logs/build_windows.log', allowEmptyArchive: true
+            archiveArtifacts artifacts: 'UnityProject/Logs/build_windows.log', allowEmptyArchive: true
         }
         success {
             archiveArtifacts artifacts: 'Builds/**', fingerprint: true
