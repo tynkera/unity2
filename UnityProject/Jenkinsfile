@@ -27,7 +27,7 @@ pipeline {
             archiveArtifacts artifacts: 'UnityProject/Logs/build_windows.log', allowEmptyArchive: true
         }
         success {
-            archiveArtifacts artifacts: 'Builds/**', fingerprint: true
+            archiveArtifacts artifacts: 'UnityProject/Builds/**', fingerprint: true
             withCredentials([string(credentialsId: 'discord-webhook', variable: 'DISCORD_WEBHOOK')]) {
                 discordSend(
                     webhookURL: env.DISCORD_WEBHOOK,
