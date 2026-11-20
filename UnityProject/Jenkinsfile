@@ -28,6 +28,13 @@ pipeline {
         }
         success {
             archiveArtifacts artifacts: 'Builds/**', fingerprint: true
+            withCredentials([string(credentialsId: 'discord-webhook', variable: 'DISCORD_WEBHOOK')]) {
+                discordSend(
+                    webhookURL: env.DISCORD_WEBHOOK,
+                    title: "빌드 성공",
+                    link: env.BUILD_URL
+                )
+            }
         }
     }
 }
